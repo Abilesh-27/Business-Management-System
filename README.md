@@ -1,4 +1,5 @@
-JP Business Management System
+
+Business Management System
 
 A Spring Boot backend project for managing labour operations and weekly payment records for a small contracting business.
 
